@@ -2,6 +2,7 @@
 
 🎌
 [Čeština][CZ],
+[Dansk][DA],
 [Deutsch][DE],
 [English][EN],
 [Español][ES],
@@ -23,6 +24,7 @@
 
 [AR]:CONTRIBUTING.ar.md
 [CZ]:CONTRIBUTING.cz.md
+[DA]:CONTRIBUTING.da.md
 [DE]:CONTRIBUTING.de.md
 [EN]:CONTRIBUTING.md
 [ES]:CONTRIBUTING.es.md
@@ -104,7 +106,7 @@ Podobnie, jeśli słowo zawiera literówkę w digitalizacji, ale jest poprawnie 
 
 Spacje pomiędzy dwoma znakami w danym ciągu powinny być zgodne z następującą konwencją (patrz na [#316][10]):
 
-- Pojedyńcza spacja dla nowego słowa.
+- Pojedyncza spacja dla nowego słowa.
 - Podwójna spacja dla nowego zdania.
 - Potrójna spacja dla akapitu.
 
